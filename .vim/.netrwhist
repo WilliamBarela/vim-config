@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/crce/code/labs/rails-dynamic-request-readme-v-000/app/views'
+let g:netrw_dirhist_2='/home/crce/code/labs/rails-dynamic-request-readme-v-000/app'
+let g:netrw_dirhist_3='/home/crce/code/labs/rails-dynamic-request-readme-v-000'
+let g:netrw_dirhist_4='/home/crce/code/labs/rails-dynamic-request-readme-v-000/config'
+let g:netrw_dirhist_5='/home/crce/code/labs/rails-dynamic-request-lab-v-000'

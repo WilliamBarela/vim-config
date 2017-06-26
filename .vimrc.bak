@@ -1,0 +1,24 @@
+" setting up tabs convert to spaces
+
+filetype plugin indent on
+set tabstop=2
+set shiftwidth=2
+set expandtab
+
+" setting number lines
+set number
+
+" setting color scheme
+colorscheme pablo
+
+" let g:ragtag_global_maps = 1 
+
+" Emmet HTML and CSS mappings for Vim
+ let g:user_emmet_settings = {
+ \  'eruby' : {
+ \    'extends' : 'html',
+ \    'snippets' : {
+ \      'er' : "<% | %>\n\t${child}\n<% end %>",
+ \    }
+ \  }
+ \}
